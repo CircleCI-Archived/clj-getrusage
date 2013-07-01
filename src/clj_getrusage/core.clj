@@ -26,7 +26,7 @@
       :ixrss (.ru_ixrss rusage)
       :idrss (.ru_idrss rusage)
       :isrss (.ru_isrss rusage)
-      :minftl (.ru_minflt rusage)
+      :minflt (.ru_minflt rusage)
       :majflt (.ru_majflt rusage)
       :nswap (.ru_nswap rusage)
       :inblock (.ru_inblock rusage)
